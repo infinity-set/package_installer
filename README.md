@@ -15,6 +15,26 @@ This Bash script is designed to simplify the process of checking for the existen
 - Make sure you have the necessary permissions to run commands with `sudo`.
 - Before using this script, ensure that your package repository is up to date.
 
+## Languages and Utilities Used
+- **Bash**
+  <br><br>
+[<img align="left" alt="Bash Icon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />][bash]
+
+[bash]: https://www.gnu.org/software/bash/
+  <br><br>
+
+## Environments Used
+
+- **Red Hat**
+- **Cent OS**
+  <br><br>
+[<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" />][red_hat]
+[<img align="left" alt="Red Hat Icon" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/CentOS_color_logo.svg" />][cent_os]
+
+[red_hat]: https://www.redhat.com/
+[cent_os]: https://www.centos.org/ 
+
+  <br><br>
 ## Usage
 1. Clone this repository or download the script file to your system.
 2. Open a terminal and navigate to the directory containing the script.
