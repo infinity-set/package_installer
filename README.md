@@ -1,5 +1,7 @@
 # Package Installation Script for CentOS and Red Hat
 
+Welcome to the "Package Installation Script for CentOS and Red Hat." This script simplifies package management, helping you check, install, and log packages on your Linux system.
+
 ## Table of Contents
 - [Overview](#overview)
 - [How it Works](#how-it-works)
