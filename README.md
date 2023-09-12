@@ -1,5 +1,15 @@
 # Package Installation Script for CentOS and Red Hat
 
+## Table of Contents
+- [Overview](#overview)
+- [How it Works](#how-it-works)
+- [Prerequisites](#prerequisites)
+- [Languages and Utilities Used](#languages-and-utilities-used)
+- [Environments Used](#environments-used)
+- [Usage](#usage)
+- [Disclaimer](#disclaimer)
+
+
 ## Overview
 This Bash script is designed to simplify the process of checking for the existence of a package, installing it if it's missing, and logging the installation details. It is particularly useful on CentOS or other Red Hat-based Linux distributions where the '***yum***' package manager is commonly used.
 
