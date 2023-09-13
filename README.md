@@ -58,3 +58,8 @@ This Bash script is designed to simplify the process of checking for the existen
 ## Disclaimer
 
 This script is provided as-is and without warranty. Use it at your own risk. The author and maintainers are not responsible for any data loss or system issues that may arise from its use.
+
+#
+<br>
+
+⬅️ **[Home](https://github.com/infinity-set)**
